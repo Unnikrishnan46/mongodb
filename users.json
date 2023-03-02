@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "63fecbc1c802d947a01240fe"
+  },
+  "role": "user",
+  "active": false,
+  "name": "Unnikrishnan",
+  "email": "hello123@gmail.com",
+  "password": "$2a$12$7HN3mgcMLV9Nb2wczaEXCeh3EjJ8p19OjwJf3mq7hQHYO0K4dO99i",
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": {
+      "$numberLong": "1677650124593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fedb6e408ad43c5866975e"
+  },
+  "role": "admin",
+  "active": true,
+  "name": "adminunni",
+  "email": "admin003@gmail.com",
+  "password": "$2a$12$nGr93sFWhYFMAQYz7hbXo.bICSzLl3LALAxG444oJE4peseFK6p4C",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fee5099ef99c1c1c1834cb"
+  },
+  "role": "user",
+  "active": true,
+  "name": "unnikrishnan",
+  "email": "erayamcode2004@gmail.com",
+  "password": "$2a$12$sFKzAMN5CDIDnhE0SNbG7OOfztNdB1vmVuYEYoAma3I2CSBBsBZWS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fee5e39ef99c1c1c1834cc"
+  },
+  "role": "user",
+  "active": true,
+  "name": "unnikrishnan",
+  "email": "unnikrishnan@gmail.com",
+  "password": "$2a$12$Xm7Y3nmCvJGxmqyU4C9X0.9qu8ge7Pi1sEp.Zt2.bezDVB0T.HE3m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef305a9d04a6428bfb674"
+  },
+  "role": "user",
+  "active": true,
+  "name": "unnikrishnanTEST",
+  "email": "unnikrishnan123@gmail.com",
+  "password": "$2a$12$frG/t4MmezeuGxH6WkFlgO1a6.2jJBLe/ByA3OKGq.OCMiLGv0Kqe",
+  "__v": 0
+}]

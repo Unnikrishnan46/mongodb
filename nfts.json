@@ -1,0 +1,385 @@
+[{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d4b"
+  },
+  "ratingsAverage": 4.7,
+  "ratingsQuantity": 37,
+  "images": [
+    "nft-1-1.jpg",
+    "nft-1-2.jpg",
+    "nft-1-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1619325000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1626755400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1633408200000"
+      }
+    }
+  ],
+  "name": "Monkey Monster",
+  "duration": 5,
+  "maxGroupSize": 25,
+  "difficulty": "easy",
+  "price": 397,
+  "summary": "Breathtaking hike through the Canadian Banff National Park",
+  "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "imageCover": "nft-1-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d4d"
+  },
+  "ratingsAverage": 4.5,
+  "ratingsQuantity": 13,
+  "images": [
+    "nft-3-1.jpg",
+    "nft-3-2.jpg",
+    "nft-3-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1641357000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1644640200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1672979400000"
+      }
+    }
+  ],
+  "name": "The Snow Adventurer",
+  "duration": 4,
+  "maxGroupSize": 10,
+  "difficulty": "difficult",
+  "price": 997,
+  "summary": "Exciting adventure in the snow with snowboarding and skiing",
+  "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+  "imageCover": "nft-3-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d4c"
+  },
+  "ratingsAverage": 4.8,
+  "ratingsQuantity": 23,
+  "images": [
+    "nft-2-1.jpg",
+    "nft-2-2.jpg",
+    "nft-2-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1624077000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1626755400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1629261000000"
+      }
+    }
+  ],
+  "name": "The Sea Explorer",
+  "duration": 7,
+  "maxGroupSize": 15,
+  "difficulty": "medium",
+  "price": 497,
+  "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+  "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "imageCover": "nft-2-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d4e"
+  },
+  "ratingsAverage": 4.6,
+  "ratingsQuantity": 54,
+  "images": [
+    "nft-4-1.jpg",
+    "nft-4-2.jpg",
+    "nft-4-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1615437000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1619929800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1623213000000"
+      }
+    }
+  ],
+  "name": "The City Wanderer",
+  "duration": 9,
+  "maxGroupSize": 20,
+  "difficulty": "easy",
+  "price": 1197,
+  "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+  "imageCover": "nft-4-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d53"
+  },
+  "ratingsAverage": 4.9,
+  "ratingsQuantity": 33,
+  "images": [
+    "nft-9-1.jpg",
+    "nft-9-2.jpg",
+    "nft-9-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1639629000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1642307400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1670819400000"
+      }
+    }
+  ],
+  "name": "The Northern Lights",
+  "duration": 3,
+  "maxGroupSize": 12,
+  "difficulty": "easy",
+  "price": 1497,
+  "summary": "Enjoy the Northern Lights in one of the best places in the world",
+  "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+  "imageCover": "nft-9-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fafcac9cca1549a4717d51"
+  },
+  "ratingsAverage": 4.5,
+  "ratingsQuantity": 35,
+  "images": [
+    "nft-7-1.jpg",
+    "nft-7-2.jpg",
+    "nft-7-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677393016000"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1613104200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1618374600000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1630470600000"
+      }
+    }
+  ],
+  "name": "The Wine Taster",
+  "duration": 5,
+  "maxGroupSize": 8,
+  "difficulty": "easy",
+  "price": 1997,
+  "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+  "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "imageCover": "nft-7-cover.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fb6c71c9a7a07abcb959f9"
+  },
+  "ratingsAverage": 4.6,
+  "ratingsQuantity": 54,
+  "images": [
+    "nft-4-1.jpg",
+    "nft-4-2.jpg",
+    "nft-4-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677421644829"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1615437000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1619929800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1623213000000"
+      }
+    }
+  ],
+  "secretNfts": false,
+  "name": "sam curan hello",
+  "duration": 9,
+  "maxGroupSize": 20,
+  "difficulty": "easy",
+  "price": 1197,
+  "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+  "imageCover": "nft-4-cover.jpg",
+  "slug": "the-fisher-man-suii",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63feccd9c802d947a01240ff"
+  },
+  "ratingsAverage": 4.5,
+  "ratingsQuantity": 13,
+  "images": [
+    "nft-3-1.jpg",
+    "nft-3-2.jpg",
+    "nft-3-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677642508299"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1641357000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1644640200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1672979400000"
+      }
+    }
+  ],
+  "secretNfts": false,
+  "name": "The Snow new NFt",
+  "duration": 4,
+  "maxGroupSize": 10,
+  "difficulty": "easy",
+  "price": 997,
+  "summary": "Exciting adventure in the snow with snowboarding and skiing",
+  "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+  "imageCover": "nft-3-cover.jpg",
+  "slug": "the-snow-new-nft",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fed4d119ed270ca0346388"
+  },
+  "ratingsAverage": 4.6,
+  "ratingsQuantity": 54,
+  "images": [
+    "nft-4-1.jpg",
+    "nft-4-2.jpg",
+    "nft-4-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677644904904"
+    }
+  },
+  "startDates": [
+    {
+      "$date": {
+        "$numberLong": "1615437000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1619929800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1623213000000"
+      }
+    }
+  ],
+  "secretNfts": true,
+  "name": "The City Wanderer new",
+  "duration": 9,
+  "maxGroupSize": 20,
+  "difficulty": "easy",
+  "price": 1197,
+  "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+  "imageCover": "nft-4-cover.jpg",
+  "slug": "the-city-wanderer-new",
+  "__v": 0
+}]
